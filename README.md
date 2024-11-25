@@ -1,1 +1,1 @@
-
+This project uses DRF's CRUD functionality. The project has login, logout, and signup (dj-rest-auth, django allauth) functionality, and uses permission classes. Token based authentication is also used. Viewsets and routers are used. Generated schema with openapi, made documentation of api with swagger and redoc.
